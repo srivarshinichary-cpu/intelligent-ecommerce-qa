@@ -1,0 +1,15 @@
+{
+    "valid_login": {
+        "username": "standard_user",
+        "password": "secret_sauce"
+    },
+    "invalid_login": {
+        "username": "wrong_user",
+        "password": "wrong_password"
+    },
+    "customer": {
+        "first_name": "Sri",
+        "last_name": "Varshini",
+        "postal_code": "500001"
+    }
+}
